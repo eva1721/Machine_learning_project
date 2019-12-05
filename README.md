@@ -10,22 +10,22 @@ Data:
 https://www.kaggle.com/ronitf/heart-disease-uci
 
 
-1. Introduction:
+1.Introduction:
 ---
 
-2. Data Scanning:
+2.Data Scanning:
 ---
 
-3. Data Processing:
+3.Data Processing:
 ---
 
-4. Model Selection:
+4.Model Selection:
 ---
 
-5. Model Evaluation:
+5.Model Evaluation:
 ---
 
-6. Results:
+6.Results:
 ---
 
 7.Conclusion:
