@@ -94,9 +94,10 @@ From the result, we can tell that the classification is not very clear when usin
 
 4.Model Selection:
 ---
+Using k-fold = 10 cross-validation to choose best ML algorithm, we run the model 10x with 70/20 split intentionally leaving out 10% of the data
+
 ![image](image/11.png)
-k=10 cross v
-train 70% test 20%
+
 5.Model Evaluation:
 ---
 ![image](image/12.png)
