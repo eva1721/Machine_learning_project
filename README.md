@@ -98,10 +98,13 @@ Using k-fold = 10 cross-validation to choose best ML algorithm, we run the model
 
 ![image](image/011.png)
 
+So we can see logitic regression method has the highest accuracy score among the all algorithm
+
 5.Model Evaluation:
 ---
-![image](image/012.png)
+We made 2 confusion matrix for each train data and test data:
 
+![image](image/012.png)
 ![image](image/013.png)
 
 ![image](image/014.png)
