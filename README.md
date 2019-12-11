@@ -44,9 +44,9 @@ Machine learning has been shown to be effective in assisting in making decisions
    * 0 = no
 10. ST depression induced by exercise relative to rest: displays the value which is integer or float.
 11. Peak exercise ST segment:
-   * 1 = upsloping
-   * 2 = flat
-   * 3 = downsloping
+* 1 = upsloping
+* 2 = flat
+* 3 = downsloping
 12. Number of major vessels (0–3) colored by flourosopy: displays the value as integer or float.
 13. Thal: displays the thalassemia:
    * 3 = normal
@@ -54,7 +54,7 @@ Machine learning has been shown to be effective in assisting in making decisions
    * 7 = reversible defect
 14. Diagnosis of heart disease: Displays whether the individual is suffering from heart disease or not:
    * 0 = absence
-   * 1, 2, 3, 4 = present.
+   * 1, 2, 3, 4 = present
 
 3.Data Processing:
 ---
