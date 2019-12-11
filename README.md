@@ -57,12 +57,19 @@ Machine learning has been shown to be effective in assisting in making decisions
     * 1, 2, 3, 4 = present
    
 ![image](image/1.png)
+
 ![image](image/2.png)
+
 ![image](image/3.png)
+
 ![image](image/4.png)
+
 ![image](image/5.png)
+
 ![image](image/6.png)
+
 ![image](image/7.png)
+
 ![image](image/8.png)
 
 3.Data Processing:
@@ -77,6 +84,7 @@ Machine learning has been shown to be effective in assisting in making decisions
 5.Model Evaluation:
 ---
 ![image](image/12.png)
+
 ![image](image/13.png)
 
 6.Results:
