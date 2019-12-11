@@ -57,6 +57,7 @@ Machine learning has been shown to be effective in assisting in making decisions
     * 1, 2, 3, 4 = present
 
 We made some charts to analyze the data:
+
 ![image](image/1.png)
 
 The proportion of heart dicease in data
