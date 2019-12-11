@@ -58,7 +58,7 @@ Machine learning has been shown to be effective in assisting in making decisions
 
 We made some charts to analyze the data:
 
-![image](image/1.png)
+![image](image/1.png)  
 The proportion of heart dicease in data
 
 ![image](image/2.png)
@@ -80,8 +80,7 @@ The heart disease frequency for slope
 The heart disease frequency according to FBS
 
 ![image](image/8.png)
-The heart disease frequency acccording to chest pain type
-
+The heart disease frequency acccording to chest pain type  
 3.Data Processing:
 ---
 ![image](image/9.png)
