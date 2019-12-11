@@ -55,9 +55,10 @@ Machine learning has been shown to be effective in assisting in making decisions
 14. Diagnosis of heart disease: Displays whether the individual is suffering from heart disease or not:
     * 0 = absence
     * 1, 2, 3, 4 = present
-   
-![image](image/1.png)
 
+We made some charts to analyze the data:
+![image](image/1.png)
+proportion of heart dicease in the data
 ![image](image/2.png)
 
 ![image](image/3.png)
