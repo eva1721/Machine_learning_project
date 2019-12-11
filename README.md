@@ -112,10 +112,3 @@ We choose logistic regression and made 2 confusion matrix for each train data an
 The ROC curve of the model with the AUC is 0.942
 
 ![image](image/014.png)
-
-6.Results:
----
-
-7.Conclusion:
----
-
