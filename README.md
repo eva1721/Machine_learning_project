@@ -59,6 +59,7 @@ Machine learning has been shown to be effective in assisting in making decisions
 3.Data Processing:
 ---
 ![image](image/9.png)
+![image](image/10.png)
 4.Model Selection:
 ---
 
