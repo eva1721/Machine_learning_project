@@ -92,9 +92,11 @@ From the result, we can tell that the classification is not very clear when usin
 
 ![image](image/010.png)
 
+We also use TSNE and visualize it with 2 classes.
+
 4.Model Selection:
 ---
-Using k-fold = 10 cross-validation to choose best ML algorithm, we run the model 10x with 70/20 split intentionally leaving out 10% of the data
+Using k-fold = 10 cross-validation to choose best ML algorithm, we run the model 10x with 70/20 split intentionally leaving out 10% of the data:
 
 ![image](image/011.png)
 
@@ -102,10 +104,12 @@ So we can see logitic regression method has the highest accuracy score among the
 
 5.Model Evaluation:
 ---
-We made 2 confusion matrix for each train data and test data:
+We choose logistic regression and made 2 confusion matrix for each train data and test data, the accuracy for train data is 86.0% and for test data is 91.8%
 
 ![image](image/012.png)
 ![image](image/013.png)
+
+The ROC curve of the model with the AUC is 0.942
 
 ![image](image/014.png)
 
