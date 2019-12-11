@@ -75,12 +75,15 @@ Machine learning has been shown to be effective in assisting in making decisions
 3.Data Processing:
 ---
 ![image](image/9.png)
+pca n=2 evaluation
+no primary 
 ![image](image/10.png)
 
 4.Model Selection:
 ---
 ![image](image/11.png)
-
+k=10 cross v
+train 70% test 20%
 5.Model Evaluation:
 ---
 ![image](image/12.png)
