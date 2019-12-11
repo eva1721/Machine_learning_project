@@ -56,31 +56,31 @@ Machine learning has been shown to be effective in assisting in making decisions
     * 0 = absence
     * 1, 2, 3, 4 = present
 
-We made some charts to analyze the data:
+We made some plots to analyze the data:
 
 ![image](image/1.png)  
 The proportion of heart dicease in data
 
 ![image](image/2.png)  
-The sex ratio in data
+The sex ratio in data, the proportion of female is higher than male.
 
 ![image](image/3.png)  
-The heart disease frequency for different ages
+The heart disease frequency for different ages, high probability of heart disease at age 50 to 60
 
 ![image](image/4.png)  
-The heart disease frequency for different sex
+The heart disease frequency for different sex, high probability of heart disease in female
 
 ![image](image/5.png)  
 The age and maximum heart rate
 
 ![image](image/6.png)  
-The heart disease frequency for slope
+The heart disease frequency for ST segment, high probability of heart disease if the exercise ST segment is downsloping
 
 ![image](image/7.png)  
-The heart disease frequency according to FBS
+The heart disease frequency according to FBS, high probability of heart disease if the FBS is more than 120 mg/dl
 
 ![image](image/8.png)  
-The heart disease frequency acccording to chest pain type  
+The heart disease frequency acccording to chest pain type, the anginal pain and atypical angina have the high probability of heart disease
 
 3.Data Processing:
 ---
