@@ -81,6 +81,7 @@ The heart disease frequency according to FBS
 
 ![image](image/8.png)
 The heart disease frequency acccording to chest pain type
+
 3.Data Processing:
 ---
 ![image](image/9.png)
