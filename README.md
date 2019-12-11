@@ -85,6 +85,7 @@ The heart disease frequency acccording to chest pain type, the anginal pain and 
 3.Data Processing:
 ---
 ![image](image/9.png)
+
 Then we used PCA and try to visualize it with 2 classes.
 
 From the result, we can tell that the classification is not very clear when using two features. We can know that the factors that affect heart disease are not simply determined by two features, but there are many conditions before they can be classified.
