@@ -100,9 +100,11 @@ Using k-fold = 10 cross-validation to choose best ML algorithm, we run the model
 
 5.Model Evaluation:
 ---
-![image](image/12.png)
+![image](image/15.png)
 
-![image](image/13.png)
+![image](image/16.png)
+
+![image](image/14.png)
 
 6.Results:
 ---
