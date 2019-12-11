@@ -61,26 +61,27 @@ We made some charts to analyze the data:
 ![image](image/1.png)  
 The proportion of heart dicease in data
 
-![image](image/2.png)
+![image](image/2.png)  
 The sex ratio in data
 
-![image](image/3.png)
+![image](image/3.png)  
 The heart disease frequency for different ages
 
-![image](image/4.png)
+![image](image/4.png)  
 The heart disease frequency for different sex
 
-![image](image/5.png)
+![image](image/5.png)  
 The age and maximum heart rate
 
-![image](image/6.png)
+![image](image/6.png)  
 The heart disease frequency for slope
 
-![image](image/7.png)
+![image](image/7.png)  
 The heart disease frequency according to FBS
 
-![image](image/8.png)
+![image](image/8.png)  
 The heart disease frequency acccording to chest pain type  
+
 3.Data Processing:
 ---
 ![image](image/9.png)
