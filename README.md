@@ -57,28 +57,34 @@ Machine learning has been shown to be effective in assisting in making decisions
     * 1, 2, 3, 4 = present
 
 We made some charts to analyze the data:
-
 ![image](image/1.png)
 
 The proportion of heart dicease in data
+
 ![image](image/2.png)
 
 The sex ratio in data
+
 ![image](image/3.png)
 
 The heart disease frequency for different ages
+
 ![image](image/4.png)
 
 The heart disease frequency for different sex
+
 ![image](image/5.png)
 
 The age and maximum heart rate
+
 ![image](image/6.png)
 
 The heart disease frequency for slope
+
 ![image](image/7.png)
 
 The heart disease frequency according to FBS
+
 ![image](image/8.png)
 
 The heart disease frequency acccording to chest pain type
