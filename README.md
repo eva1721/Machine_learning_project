@@ -58,53 +58,53 @@ Machine learning has been shown to be effective in assisting in making decisions
 
 We made some plots to analyze the data:
 
-![image](image/1.png)  
+![image](image/001.png)  
 The proportion of heart dicease in data
 
-![image](image/2.png)  
+![image](image/002.png)  
 The sex ratio in data, the proportion of female is higher than male.
 
-![image](image/3.png)  
+![image](image/003.png)  
 The heart disease frequency for different ages, high probability of heart disease at age 50 to 60
 
-![image](image/4.png)  
+![image](image/004.png)  
 The heart disease frequency for different sex, high probability of heart disease in female
 
-![image](image/5.png)  
+![image](image/005.png)  
 The age and maximum heart rate
 
-![image](image/6.png)  
+![image](image/006.png)  
 The heart disease frequency for ST segment, high probability of heart disease if the exercise ST segment is downsloping
 
-![image](image/7.png)  
+![image](image/007.png)  
 The heart disease frequency according to FBS, high probability of heart disease if the FBS is more than 120 mg/dl
 
-![image](image/8.png)  
+![image](image/008.png)  
 The heart disease frequency acccording to chest pain type, the anginal pain and atypical angina have the high probability of heart disease
 
 3.Data Processing:
 ---
-![image](image/9.png)
+![image](image/009.png)
 
 Then we used PCA and try to visualize it with 2 classes.
 
 From the result, we can tell that the classification is not very clear when using two features. We can know that the factors that affect heart disease are not simply determined by two features, but there are many conditions before they can be classified.
 
-![image](image/10.png)
+![image](image/010.png)
 
 4.Model Selection:
 ---
 Using k-fold = 10 cross-validation to choose best ML algorithm, we run the model 10x with 70/20 split intentionally leaving out 10% of the data
 
-![image](image/11.png)
+![image](image/011.png)
 
 5.Model Evaluation:
 ---
-![image](image/15.png)
+![image](image/012.png)
 
-![image](image/16.png)
+![image](image/013.png)
 
-![image](image/14.png)
+![image](image/014.png)
 
 6.Results:
 ---
