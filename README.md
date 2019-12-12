@@ -112,3 +112,7 @@ We choose logistic regression and made 2 confusion matrix for each train data an
 The ROC curve of the model with the AUC is 0.942
 
 ![image](image/014.png)
+
+6.Future work:
+---
+Heart Disease is one of the major concerns for our life. It is difficult to manually determine the odds of getting heart disease based on risk factors. However, machine learning techniques are useful to predict the output from existing data. We selected the model that is most suitable for predict the heart disease. Using logistic regression to assist the doctor to judge if a patient have heart disease using its probability. For our future work, we hope we can make a program. When the patient input his or her sympols, then he or she can get a probability of heart disease. Because the performance of heart disease is very complicated, I hope to find other clinical data to train our model and increase our accuracy.
